@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(96, 90, 90);
+    background-image: url("https://phonoteka.org/uploads/posts/2022-09/1663695153_21-phonoteka-org-p-programmist-fon-vkontakte-27.png");
+
+}
+
+.article-wrp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+
+    color: white;
+    font-weight: 600;
+    font-size: x-large;
+
+    border: 1px solid blue;
+    offset: auto;
+}
+
+.questions {
+    color: beige;
+}
+
+.btn-wrp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(172, 171, 174);
+    margin: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.level {
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+    margin-left: 3%;
+
+}
+
+.for {
+    margin-left: 2%;
+}
+.tolltip{
+    height: 25%;
+    margin-top: 0;
+}
