@@ -17,4 +17,4 @@ build_script:
   - yarn run build # команда сборки
 
 test_script:
-  - off # скрипт тестирования
+  - yarn run lint && yarn run e2e # скрипт тестирования

@@ -28,13 +28,12 @@ describe("Credit Card Validator form", () => {
     page = await browser.newPage();
   });
 
-  test("BTN/Valid/Green", async () => {
-    // await page.goto(baseUrl);
+  test("click", async () => {
+    //  await page.goto(baseUrl);
 
-    // const input = await page.$(".input");
-    // let btn = await page.$(".btn");
-    // await input.type("4111111111111111");
-    // await btn.click();
+    
+    //  let btn = await page.$(".true");
+    //   await btn.click();
 
     // let valueText = await page.$eval(".btn", (el) => el.innerText);
     // let color = await page.$eval(".btn", (el) => el.style.backgroundColor);
